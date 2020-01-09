@@ -7,7 +7,7 @@ This lab is working on a real-world dataset, from NYPD containing data on calls 
 ## Runing Environment
 - Python 3 and above
 - Jupyter Notebook
-# Linear Regression
+# Linear Regression Lab
 In this lab we will work through the process of:
 - implementing a univariate linear regression model
 - defining, implementing and testing multiple loss functions
